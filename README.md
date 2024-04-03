@@ -1,6 +1,10 @@
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
+```
+Developed by: KAVINRAJA D
+RegisterNumber: 212222240047
+```
 
 **AIM:**
 
@@ -68,12 +72,7 @@ assign D = a ^ b;
   assign Bo = ~a & b;
 endmodule
 
-
-Developed by: VARSHA A
-RegisterNumber: 212223220121
 ~~~
-
-*/
 
 
 **RTL Schematic**
